@@ -22,5 +22,9 @@ There are a lot of helpful Git and GitHub resources on the web. This is a short 
    4.Git Essential Training
    
    https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html
+   
+   5.Git and Github
+   
+   https://help.github.com/articles/git-and-github-learning-resources/
 
 
